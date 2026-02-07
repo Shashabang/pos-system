@@ -1,5 +1,7 @@
 <img width="1879" height="833" alt="image" src="https://github.com/user-attachments/assets/654971c4-e904-4b2b-b835-75001f636488" />
 
+CI test trigger
+
 # 🔧 Machine System POS
 
 A comprehensive Point of Sale (POS) system designed for machine repair shops and automotive service centers. Built with PHP, JavaScript, and modern web technologies.
